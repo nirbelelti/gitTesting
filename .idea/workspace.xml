@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb9c2f0b-603d-468a-82ce-215213e0a713" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+<<<<<<< HEAD
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GitTest.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gitTesting" afterPath="$PROJECT_DIR$/gitTesting" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GitTest.html" afterPath="$PROJECT_DIR$/GitTest.html" />
+>>>>>>> 26739ef69b3c9135be427a4598c0e480453bc7a3
+>>>>>>> d074b71be23585b30346316df04af4dab9e88ca0
     </list>
     <ignored path="GitExample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,6 +34,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+=======
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,11 +46,22 @@
           </provider>
         </entry>
       </file>
+>>>>>>> 26739ef69b3c9135be427a4598c0e480453bc7a3
       <file leaf-file-name="GitTest.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GitTest.html">
+        <entry file="file://$PROJECT_DIR$/gitTesting/GitTest.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.40431267">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+=======
+<<<<<<< HEAD
+            <state vertical-scroll-proportion="0.43714285">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+=======
+            <state vertical-scroll-proportion="0.28301886">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+>>>>>>> 26739ef69b3c9135be427a4598c0e480453bc7a3
+>>>>>>> d074b71be23585b30346316df04af4dab9e88ca0
               <folding />
             </state>
           </provider>
@@ -51,8 +75,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gitTesting/GitTest.html" />
         <option value="$PROJECT_DIR$/GitTest.html" />
+        <option value="$PROJECT_DIR$/gitTesting/GitTest.html" />
       </list>
     </option>
   </component>
@@ -106,6 +130,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="GitTesting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gitTesting" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,6 +255,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gitTesting/GitTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.43714285">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+=======
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -237,24 +277,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GitTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GitTest.html">
-      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.40431267">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+=======
+        <state vertical-scroll-proportion="0.28301886">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+>>>>>>> 26739ef69b3c9135be427a4598c0e480453bc7a3
+>>>>>>> d074b71be23585b30346316df04af4dab9e88ca0
           <folding />
         </state>
       </provider>
