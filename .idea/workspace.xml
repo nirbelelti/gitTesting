@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cb9c2f0b-603d-468a-82ce-215213e0a713" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gitTesting" afterPath="$PROJECT_DIR$/gitTesting" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitExample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/gitTesting/GitTest.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.34">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -239,7 +238,7 @@
     <entry file="file://$PROJECT_DIR$/gitTesting/GitTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding />
         </state>
       </provider>
